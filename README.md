@@ -7,4 +7,4 @@ Here I applied knowledge of object-oriented programming, DOM layout and manipula
 
 [![Screenshot-9.png](https://i.postimg.cc/Pfz0CfX1/Screenshot-9.png)](https://postimg.cc/QVCfP3WM)
 
-
+[![Screenshot-7.png](https://i.postimg.cc/141z79dG/Screenshot-7.png)](https://postimg.cc/JHKmGWM0)
